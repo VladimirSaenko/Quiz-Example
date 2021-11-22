@@ -217,6 +217,7 @@ input[type=radio]:checked ~ .option {
 	cursor: pointer;
 	border-radius: 20px;
 }
+
 .modal-button-container button:hover {
 	background-color: rgb(83, 82, 82);
 }
