@@ -109,7 +109,6 @@ input[type="radio"] {
 	display: none;
 }
 
-
 input[type=radio]:checked ~ .option {
 	background-color: #8833FF;
 	color: #fff;
