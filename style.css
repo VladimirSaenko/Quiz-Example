@@ -114,7 +114,7 @@ input[type=radio]:checked ~ .option {
 	color: #fff;
 }
 
-.next-button-container{
+.next-button-container {
 	width: 50%;
 	height: 3rem;
 	display: flex;
