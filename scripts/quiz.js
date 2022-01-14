@@ -71,8 +71,8 @@ const questions = [
 			correctOption: "optionD"
 	},{
 			question: "Where is the world tallest building located ?",
-			optionA: "Africa",
-			optionB: "California",
+			optionA: "Albany",
+			optionB: "Canada",
 			optionC: "Dubai",
 			optionD: "Italy",
 			correctOption: "optionC"
@@ -100,7 +100,7 @@ const questions = [
 	},{
 			question: "Which US state was Donald Trump Born ?",
 			optionA: "New York",
-			optionB: "California",
+			optionB: "Denver",
 			optionC: "New Jersey",
 			optionD: "Los Angeles",
 			correctOption: "optionA"
@@ -127,9 +127,9 @@ const questions = [
 			correctOption: "optionC"
 	},{
 			question: "What is the capital of Germany ?",
-			optionA: "Georgia",
-			optionB: "Missouri",
-			optionC: "Oklahoma",
+			optionA: "Hannover",
+			optionB: "Moscow",
+			optionC: "Ottawa",
 			optionD: "Berlin",
 			correctOption: "optionD"
 	},{
