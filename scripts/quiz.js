@@ -148,7 +148,7 @@ const questions = [
 		correctOption: "optionD"
 	},{
 		question: "Which Planet is the hottest ?",
-		optionA: "Jupitar",
+		optionA: "Uranus",
 		optionB: "Mercury",
 		optionC: "Earth",
 		optionD: "Venus",
@@ -164,8 +164,8 @@ const questions = [
 		question: "How many hearts does an Octopus have ?",
 		optionA: "One",
 		optionB: "Two",
-		optionC: "Three",
-		optionD: "Four",
+		optionC: "Five",
+		optionD: "Seven",
 		correctOption: "optionC"
 	},{
 		question: "How many teeth does an adult human have ?",
