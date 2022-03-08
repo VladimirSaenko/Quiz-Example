@@ -15,7 +15,7 @@ const questions = [
 		correctOption: "optionB"
 	},{
 		question: "Who was the first President of USA ?",
-		optionA: "Donald Trump",
+		optionA: "Darth Vader",
 		optionB: "Barack Obama",
 		optionC: "Abraham Lincoln",
 		optionD: "George Washington",
@@ -71,7 +71,7 @@ const questions = [
 		correctOption: "optionD"
 	},{
 		question: "Where is the world tallest building located ?",
-		optionA: "Albany",
+		optionA: "Bahrein",
 		optionB: "Canada",
 		optionC: "Dubai",
 		optionD: "Italy",
@@ -98,13 +98,6 @@ const questions = [
 		optionD: "France",
 		correctOption: "optionD"
 	},{
-		question: "Which US state was Donald Trump Born ?",
-		optionA: "New York",
-		optionB: "Denver",
-		optionC: "New Jersey",
-		optionD: "Los Angeles",
-		correctOption: "optionA"
-	},{
 		question: "How many states does USA have ?",
 		optionA: "24",
 		optionB: "30",
@@ -127,9 +120,9 @@ const questions = [
 		correctOption: "optionC"
 	},{
 		question: "What is the capital of Germany ?",
-		optionA: "Hannover",
-		optionB: "Moscow",
-		optionC: "Ottawa",
+		optionA: "Nairobi",
+		optionB: "Stockholm",
+		optionC: "Tokio",
 		optionD: "Berlin",
 		correctOption: "optionD"
 	},{
@@ -175,4 +168,4 @@ const questions = [
 		optionD: "36",
 		correctOption: "optionC"
 	}
-]
+];
