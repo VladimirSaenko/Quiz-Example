@@ -1,4 +1,6 @@
-let shuffledQuestions = []; 
+// "use strict";
+
+let shuffledQuestions = [];
 const questionsCountByPeople = 10;
 // const questionsCountByPeople = 3;
 const questionsCount = questionsCountByPeople - 1;
