@@ -1,3 +1,5 @@
+// "use strict";
+
 const questions = [
 	{
 		question: "How many days makes a week ?",
