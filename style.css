@@ -26,12 +26,14 @@ main {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
+/* 	background: linear-gradient(180deg, purple, red); */
 }
 
 .game-quiz-container {
 	width: 40rem;
 	height: 30rem;
 	background-color: #FFDC63;
+/* 	background: linear-gradient(45deg, yellow, orange); */
 	display: flex;
 	flex-direction: column;
 	align-items: center;
