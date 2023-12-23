@@ -166,7 +166,7 @@ const questions = [
 		correctOption: "optionA"
 	},
 	{
-		question: "How many satellites does the earth have?",
+		question: "How many satellites does the Earth have?",
 		optionA: "1",
 		optionB: "2",
 		optionC: "3",
